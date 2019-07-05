@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FinalProjectTennis</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="p2">Player 2</string>
+    <string name="p1">Player 1</string>
+    <string name="format">Select Format</string>
+    <string name="set">Select Last Set Format</string>
+    <string name="shot">Input Shot Types</string>
+    <string name="fin">Finish</string>
+    <string name="SCORE">SCORES</string>
+    <string-array name="format_array">
+        <item>2 sets,6 games,Advantage,TB 6-5</item>
+        <item>2 sets,5 games,Advantage,TB 5-5</item>
+        <item>2 sets,4 games,Advantage,TB 4-4</item>
+        <item>2 sets,3 games,Advantage,TB 2-2</item>
+    </string-array>
+    <string-array name="lastset_array">
+        <item>Normal Set</item>
+        <item>7 point tie break</item>
+        <item>10 point  super-tie break</item>
+    </string-array>
+    <string name="title_activity_map">MapAct</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
